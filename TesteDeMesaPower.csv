@@ -1,0 +1,6 @@
+"power(num1,num2)",let i,"multiply(resultado,num1)",let resultado
+"power(2,5)",0,"mutiply(1,2) = 2",2
+"power(2,5)",1,"mutiply(2,2) = 4",4
+"power(2,5)",2,"mutiply(4,2) = 8",8
+"power(2,5)",3,"mutiply(8,2) = 16",16
+"power(2,5)",4,"mutiply(16,2) = 32",32
